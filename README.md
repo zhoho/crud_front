@@ -2,7 +2,7 @@
 
 learn html, css, bootstrap and javascript
 
-## 운동루틴 기록 web(front)
+## Workout routine web(front)
 
 ## page
 
